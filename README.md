@@ -101,12 +101,12 @@ Project Ini Berlisensi MIT.
 
 Kontak Developer
 
-WhatsApp : +62 831-6323-4218
+WhatsApp : [Klik Untuk Chat](https://wa.me/6283163234218)
 
-GitHub : @Modz001
+GitHub : [@Modz001](https://github.com/Modz001)
 
 
 
 ---
 
-<h3 align="center">© Modz Botz | Credit</h3>
+<h3 align="center">© Modz Botz</h3>
