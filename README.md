@@ -1,4 +1,4 @@
-<h1 align="center">『 Modz Botz Alpha Version 』</h1>
+<h1 align="center">Modz Botz Alpha Version</h1>
 <p align="center">
   <img src="https://img.shields.io/github/stars/Modz001/Modz-Botz-Alpha-Version?style=flat-square" />
   <img src="https://img.shields.io/github/forks/Modz001/Modz-Botz-Alpha-Version?style=flat-square" />
