@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Modz Botz Alpha Version</h1>
+<h1 align="center">Modz Botz Alpha Version</h1>
 <p align="center">
   <img src="https://img.shields.io/github/stars/Modz001/Modz-Botz-Alpha-Version?style=flat-square" />
   <img src="https://img.shields.io/github/forks/Modz001/Modz-Botz-Alpha-Version?style=flat-square" />
@@ -13,20 +13,20 @@
 
 ---
 
-## ✨ Fitur Unggulan
+##Fitur Unggulan
 
-- ⚙️ **Sistem Plugin Modular** — Tambahkan Fitur Dengan Menaruh File Di Folder Plugin.
-- 🧠 **Auto Read & Auto Typing** — Meniru Aktivitas Pengguna Secara Otomatis.
-- 📦 **ESM Support** — Menggunakan Format Import Modern `import/export`.
-- 🖼️ **Custom Menu Gambar** — Dengan Tombol `List_Reply` Dan `CTA_Url`.
-- 👥 **Multi Owner System** — Tambah Atau Hapus Owner Dengan Mudah.
-- ⚡ **Performa Cepat** — Ringan, Stabil, Cocok Untuk VPS, Termux, Atau Lainnya.
+- **Sistem Plugin Modular** — Tambahkan Fitur Dengan Menaruh File Di Folder Plugin.
+- **Auto Read & Auto Typing** — Meniru Aktivitas Pengguna Secara Otomatis.
+- **ESM Support** — Menggunakan Format Import Modern `import/export`.
+- **Custom Menu Gambar** — Dengan Tombol `List_Reply` Dan `CTA_Url`.
+- **Multi Owner System** — Tambah Atau Hapus Owner Dengan Mudah.
+- **Performa Cepat** — Ringan, Stabil, Cocok Untuk VPS, Termux, Atau Lainnya.
 
 ---
 
-## 📦 Instalasi
+##Instalasi
 
-### 💻 Termux / VPS / Linux
+###Termux / VPS / Linux
 
 ```bash
 # Clone Repository
@@ -41,13 +41,13 @@ npm start
 
 ```
 ```bash
-📁 Struktur Folder
+Struktur Folder
 
 Modz-Botz-Alpha-Version/
-├── Plugins/          # Semua Plugin Fitur
-├── Lib/              # Fungsi Dan Konfigurasi
-├── Session/          # File Autentikasi
-├── Media/            # Media Menu Dan Respon
+├── Modz/          # Semua Plugin Fitur
+├── lib/              # Fungsi Dan Konfigurasi
+├── modzbotz/          # File Autentikasi
+├── /            # Media Menu Dan Respon
 ├── Modz.js           # File Utama Bot
 └── Package.json      # Informasi Package
 
