@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/github/stars/Modz001/Modz-Botz-Alpha-Version?style=flat-square" />
   <img src="https://img.shields.io/github/forks/Modz001/Modz-Botz-Alpha-Version?style=flat-square" />
   <img src="https://img.shields.io/github/license/Modz001/Modz-Botz-Alpha-Version?style=flat-square" />
-  <img src="https://img.shields.io/badge/Node.js-18.x-green?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/Node.js-20.x-green?style=flat-square&logo=node.js" />
 </p>
 
 <p align="center">
