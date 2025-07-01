@@ -39,6 +39,7 @@ npm install
 # Jalankan Bot
 npm start
 
+```
 ```bash
 📁 Struktur Folder
 
@@ -51,6 +52,7 @@ Modz-Botz-Alpha-Version/
 └── Package.json      # Informasi Package
 
 ---
+```
 ```bash
 🧪 Contoh Perintah
 
