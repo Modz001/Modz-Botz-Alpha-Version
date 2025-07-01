@@ -1,0 +1,518 @@
+[
+  {
+    "id": "flamezoid",
+    "nama": "Flamezoid",
+    "tier": "A",
+    "elemen": "api",
+    "harga": 3000,
+    "skill": [
+      { "nama": "Fire Claw", "damage": 25 },
+      { "nama": "Blazing Kick", "damage": 30 },
+      { "nama": "Inferno Beam", "damage": 40 }
+    ]
+  },
+  {
+    "id": "aquarex",
+    "nama": "AquaRex",
+    "tier": "B",
+    "elemen": "air",
+    "harga": 2000,
+    "skill": [
+      { "nama": "Tidal Wave", "damage": 20 },
+      { "nama": "Water Slash", "damage": 15 },
+      { "nama": "Bubble Barrage", "damage": 25 }
+    ]
+  },
+  {
+    "id": "stormbringer",
+    "nama": "Stormbringer",
+    "tier": "S",
+    "elemen": "listrik",
+    "harga": 10000,
+    "skill": [
+      { "nama": "Thunder Judgment", "damage": 60 },
+      { "nama": "Lightning Nova", "damage": 75 },
+      { "nama": "Plasma Storm", "damage": 90 }
+    ]
+  },
+  {
+    "id": "volcanix",
+    "nama": "Volcanix",
+    "tier": "S",
+    "elemen": "api",
+    "harga": 9500,
+    "skill": [
+      { "nama": "Magma Eruption", "damage": 65 },
+      { "nama": "Solar Flare", "damage": 70 },
+      { "nama": "Inferno Core", "damage": 85 }
+    ]
+  },
+  {
+    "id": "titanor",
+    "nama": "Titanor",
+    "tier": "S",
+    "elemen": "tanah",
+    "harga": 9000,
+    "skill": [
+      { "nama": "Tectonic Slam", "damage": 55 },
+      { "nama": "Mountain Crusher", "damage": 80 },
+      { "nama": "Earthquake Fury", "damage": 70 }
+    ]
+  },
+  {
+    "id": "thundercub",
+    "nama": "Thundercub",
+    "tier": "A",
+    "elemen": "listrik",
+    "harga": 3200,
+    "skill": [
+      { "nama": "Spark Dash", "damage": 30 },
+      { "nama": "Volt Tackle", "damage": 35 },
+      { "nama": "Thunder Fang", "damage": 45 }
+    ]
+  },
+  {
+    "id": "marinara",
+    "nama": "Marinara",
+    "tier": "A",
+    "elemen": "air",
+    "harga": 3100,
+    "skill": [
+      { "nama": "Aqua Jet", "damage": 25 },
+      { "nama": "Hydro Cutter", "damage": 40 },
+      { "nama": "Tsunami Crash", "damage": 35 }
+    ]
+  },
+  {
+    "id": "terramaw",
+    "nama": "Terramaw",
+    "tier": "A",
+    "elemen": "tanah",
+    "harga": 2900,
+    "skill": [
+      { "nama": "Rock Throw", "damage": 20 },
+      { "nama": "Sand Tomb", "damage": 35 },
+      { "nama": "Quake Punch", "damage": 45 }
+    ]
+  },
+  {
+    "id": "pyroclaw",
+    "nama": "Pyroclaw",
+    "tier": "A",
+    "elemen": "api",
+    "harga": 3300,
+    "skill": [
+      { "nama": "Flame Swipe", "damage": 30 },
+      { "nama": "Heat Wave", "damage": 25 },
+      { "nama": "Blazing Charge", "damage": 50 }
+    ]
+  },
+  {
+    "id": "voltwing",
+    "nama": "Voltwing",
+    "tier": "A",
+    "elemen": "listrik",
+    "harga": 3150,
+    "skill": [
+      { "nama": "Zap Wing", "damage": 25 },
+      { "nama": "Plasma Dive", "damage": 40 },
+      { "nama": "Static Storm", "damage": 35 }
+    ]
+  },
+  {
+    "id": "coralith",
+    "nama": "Coralith",
+    "tier": "A",
+    "elemen": "air",
+    "harga": 3050,
+    "skill": [
+      { "nama": "Bubble Blast", "damage": 20 },
+      { "nama": "Tidal Slash", "damage": 45 },
+      { "nama": "Ocean's Wrath", "damage": 30 }
+    ]
+  },
+  {
+    "id": "boulderon",
+    "nama": "Boulderon",
+    "tier": "A",
+    "elemen": "tanah",
+    "harga": 2950,
+    "skill": [
+      { "nama": "Stone Edge", "damage": 40 },
+      { "nama": "Mud Shot", "damage": 25 },
+      { "nama": "Landslide", "damage": 35 }
+    ]
+  },
+  {
+    "id": "emberon",
+    "nama": "Emberon",
+    "tier": "A",
+    "elemen": "api",
+    "harga": 3250,
+    "skill": [
+      { "nama": "Smoke Screen", "damage": 15 },
+      { "nama": "Flame Wheel", "damage": 35 },
+      { "nama": "Inferno Rush", "damage": 45 }
+    ]
+  },
+  {
+    "id": "stormclaw",
+    "nama": "Stormclaw",
+    "tier": "A",
+    "elemen": "listrik",
+    "harga": 3100,
+    "skill": [
+      { "nama": "Shock Claw", "damage": 30 },
+      { "nama": "Lightning Pounce", "damage": 40 },
+      { "nama": "Thunder Roar", "damage": 35 }
+    ]
+  },
+  {
+    "id": "tidefang",
+    "nama": "Tidefang",
+    "tier": "A",
+    "elemen": "air",
+    "harga": 3000,
+    "skill": [
+      { "nama": "Aqua Fang", "damage": 35 },
+      { "nama": "Whirlpool", "damage": 25 },
+      { "nama": "Torrential Bite", "damage": 45 }
+    ]
+  },
+  {
+    "id": "sparkitt",
+    "nama": "Sparkitt",
+    "tier": "B",
+    "elemen": "listrik",
+    "harga": 2200,
+    "skill": [
+      { "nama": "Static Shock", "damage": 15 },
+      { "nama": "Quick Zap", "damage": 20 },
+      { "nama": "Electro Ball", "damage": 25 }
+    ]
+  },
+  {
+    "id": "mudshell",
+    "nama": "Mudshell",
+    "tier": "B",
+    "elemen": "tanah",
+    "harga": 1800,
+    "skill": [
+      { "nama": "Mud Slap", "damage": 10 },
+      { "nama": "Shell Spin", "damage": 20 },
+      { "nama": "Dirt Spray", "damage": 15 }
+    ]
+  },
+  {
+    "id": "flarepup",
+    "nama": "Flarepup",
+    "tier": "B",
+    "elemen": "api",
+    "harga": 2300,
+    "skill": [
+      { "nama": "Ember", "damage": 15 },
+      { "nama": "Fire Spin", "damage": 20 },
+      { "nama": "Flame Tail", "damage": 25 }
+    ]
+  },
+  {
+    "id": "rippler",
+    "nama": "Rippler",
+    "tier": "B",
+    "elemen": "air",
+    "harga": 2100,
+    "skill": [
+      { "nama": "Water Gun", "damage": 10 },
+      { "nama": "Aqua Tail", "damage": 20 },
+      { "nama": "Bubble Beam", "damage": 15 }
+    ]
+  },
+  {
+    "id": "voltick",
+    "nama": "Voltick",
+    "tier": "B",
+    "elemen": "listrik",
+    "harga": 2150,
+    "skill": [{ "nama": "Zap", "damage": 15 }, { "nama": "Charge", "damage": 10 }, { "nama": "Spark", "damage": 20 }]
+  },
+  {
+    "id": "pebbleon",
+    "nama": "Pebbleon",
+    "tier": "B",
+    "elemen": "tanah",
+    "harga": 1900,
+    "skill": [
+      { "nama": "Rock Toss", "damage": 15 },
+      { "nama": "Harden", "damage": 5 },
+      { "nama": "Rollout", "damage": 25 }
+    ]
+  },
+  {
+    "id": "smolder",
+    "nama": "Smolder",
+    "tier": "B",
+    "elemen": "api",
+    "harga": 2250,
+    "skill": [
+      { "nama": "Smokescreen", "damage": 5 },
+      { "nama": "Flame Burst", "damage": 20 },
+      { "nama": "Heat Blast", "damage": 15 }
+    ]
+  },
+  {
+    "id": "splashling",
+    "nama": "Splashling",
+    "tier": "B",
+    "elemen": "air",
+    "harga": 2050,
+    "skill": [
+      { "nama": "Water Splash", "damage": 10 },
+      { "nama": "Rain Dance", "damage": 5 },
+      { "nama": "Aqua Ring", "damage": 15 }
+    ]
+  },
+  {
+    "id": "joltle",
+    "nama": "Joltle",
+    "tier": "B",
+    "elemen": "listrik",
+    "harga": 2100,
+    "skill": [
+      { "nama": "Thundershock", "damage": 15 },
+      { "nama": "Quick Attack", "damage": 10 },
+      { "nama": "Electroweb", "damage": 20 }
+    ]
+  },
+  {
+    "id": "sandip",
+    "nama": "Sandip",
+    "tier": "B",
+    "elemen": "tanah",
+    "harga": 1950,
+    "skill": [
+      { "nama": "Sand Attack", "damage": 5 },
+      { "nama": "Dig", "damage": 20 },
+      { "nama": "Sand Tomb", "damage": 15 }
+    ]
+  },
+  {
+    "id": "flicker",
+    "nama": "Flicker",
+    "tier": "C",
+    "elemen": "api",
+    "harga": 1500,
+    "skill": [
+      { "nama": "Warm Up", "damage": 5 },
+      { "nama": "Small Flame", "damage": 10 },
+      { "nama": "Smoke Puff", "damage": 8 }
+    ]
+  },
+  {
+    "id": "drizzle",
+    "nama": "Drizzle",
+    "tier": "C",
+    "elemen": "air",
+    "harga": 1400,
+    "skill": [{ "nama": "Drip", "damage": 5 }, { "nama": "Mist", "damage": 3 }, { "nama": "Tiny Wave", "damage": 10 }]
+  },
+  {
+    "id": "pebblit",
+    "nama": "Pebblit",
+    "tier": "C",
+    "elemen": "tanah",
+    "harga": 1300,
+    "skill": [
+      { "nama": "Pebble Toss", "damage": 8 },
+      { "nama": "Harden", "damage": 0 },
+      { "nama": "Tiny Quake", "damage": 10 }
+    ]
+  },
+  {
+    "id": "statick",
+    "nama": "Statick",
+    "tier": "C",
+    "elemen": "listrik",
+    "harga": 1450,
+    "skill": [{ "nama": "Tingle", "damage": 5 }, { "nama": "Static", "damage": 3 }, { "nama": "Mini Zap", "damage": 8 }]
+  },
+  {
+    "id": "glowlet",
+    "nama": "Glowlet",
+    "tier": "C",
+    "elemen": "api",
+    "harga": 1550,
+    "skill": [
+      { "nama": "Glow", "damage": 3 },
+      { "nama": "Warm Touch", "damage": 8 },
+      { "nama": "Tiny Spark", "damage": 10 }
+    ]
+  },
+  {
+    "id": "pondling",
+    "nama": "Pondling",
+    "tier": "C",
+    "elemen": "air",
+    "harga": 1350,
+    "skill": [
+      { "nama": "Bubble", "damage": 5 },
+      { "nama": "Splash", "damage": 3 },
+      { "nama": "Water Drop", "damage": 8 }
+    ]
+  },
+  {
+    "id": "gritty",
+    "nama": "Gritty",
+    "tier": "C",
+    "elemen": "tanah",
+    "harga": 1250,
+    "skill": [
+      { "nama": "Dust Cloud", "damage": 3 },
+      { "nama": "Sand Spray", "damage": 5 },
+      { "nama": "Tiny Rock", "damage": 8 }
+    ]
+  },
+  {
+    "id": "shocklet",
+    "nama": "Shocklet",
+    "tier": "C",
+    "elemen": "listrik",
+    "harga": 1400,
+    "skill": [
+      { "nama": "Tiny Shock", "damage": 5 },
+      { "nama": "Static", "damage": 2 },
+      { "nama": "Mini Charge", "damage": 8 }
+    ]
+  },
+  {
+    "id": "sparkle",
+    "nama": "Sparkle",
+    "tier": "C",
+    "elemen": "api",
+    "harga": 1500,
+    "skill": [
+      { "nama": "Ember", "damage": 5 },
+      { "nama": "Warm Breath", "damage": 8 },
+      { "nama": "Tiny Flame", "damage": 10 }
+    ]
+  },
+  {
+    "id": "droplet",
+    "nama": "Droplet",
+    "tier": "C",
+    "elemen": "air",
+    "harga": 1300,
+    "skill": [
+      { "nama": "Water Drop", "damage": 5 },
+      { "nama": "Mist", "damage": 2 },
+      { "nama": "Tiny Bubble", "damage": 8 }
+    ]
+  },
+  {
+    "id": "emberling",
+    "nama": "Emberling",
+    "tier": "D",
+    "elemen": "api",
+    "harga": 800,
+    "skill": [
+      { "nama": "Warmth", "damage": 2 },
+      { "nama": "Tiny Spark", "damage": 5 },
+      { "nama": "Smoke Puff", "damage": 3 }
+    ]
+  },
+  {
+    "id": "puddle",
+    "nama": "Puddle",
+    "tier": "D",
+    "elemen": "air",
+    "harga": 750,
+    "skill": [{ "nama": "Drip", "damage": 2 }, { "nama": "Tiny Splash", "damage": 5 }, { "nama": "Mist", "damage": 1 }]
+  },
+  {
+    "id": "pebblet",
+    "nama": "Pebblet",
+    "tier": "D",
+    "elemen": "tanah",
+    "harga": 700,
+    "skill": [{ "nama": "Tiny Rock", "damage": 3 }, { "nama": "Harden", "damage": 0 }, { "nama": "Dust", "damage": 2 }]
+  },
+  {
+    "id": "tinglit",
+    "nama": "Tinglit",
+    "tier": "D",
+    "elemen": "listrik",
+    "harga": 850,
+    "skill": [
+      { "nama": "Tingle", "damage": 2 },
+      { "nama": "Static", "damage": 1 },
+      { "nama": "Mini Shock", "damage": 3 }
+    ]
+  },
+  {
+    "id": "smolderling",
+    "nama": "Smolderling",
+    "tier": "D",
+    "elemen": "api",
+    "harga": 800,
+    "skill": [
+      { "nama": "Warm Breath", "damage": 2 },
+      { "nama": "Tiny Ember", "damage": 5 },
+      { "nama": "Smoke", "damage": 1 }
+    ]
+  },
+  {
+    "id": "ripplet",
+    "nama": "Ripplet",
+    "tier": "D",
+    "elemen": "air",
+    "harga": 700,
+    "skill": [
+      { "nama": "Tiny Wave", "damage": 3 },
+      { "nama": "Splash", "damage": 2 },
+      { "nama": "Bubble", "damage": 1 }
+    ]
+  },
+  {
+    "id": "gritlet",
+    "nama": "Gritlet",
+    "tier": "D",
+    "elemen": "tanah",
+    "harga": 650,
+    "skill": [
+      { "nama": "Sand", "damage": 2 },
+      { "nama": "Harden", "damage": 0 },
+      { "nama": "Tiny Pebble", "damage": 3 }
+    ]
+  },
+  {
+    "id": "zapplet",
+    "nama": "Zapplet",
+    "tier": "D",
+    "elemen": "listrik",
+    "harga": 800,
+    "skill": [
+      { "nama": "Tiny Zap", "damage": 3 },
+      { "nama": "Static", "damage": 1 },
+      { "nama": "Mini Shock", "damage": 2 }
+    ]
+  },
+  {
+    "id": "flamelet",
+    "nama": "Flamelet",
+    "tier": "D",
+    "elemen": "api",
+    "harga": 750,
+    "skill": [
+      { "nama": "Warmth", "damage": 1 },
+      { "nama": "Tiny Flame", "damage": 3 },
+      { "nama": "Smoke", "damage": 2 }
+    ]
+  },
+  {
+    "id": "dewlet",
+    "nama": "Dewlet",
+    "tier": "D",
+    "elemen": "air",
+    "harga": 700,
+    "skill": [{ "nama": "Drip", "damage": 2 }, { "nama": "Mist", "damage": 1 }, { "nama": "Tiny Bubble", "damage": 3 }]
+  }
+]

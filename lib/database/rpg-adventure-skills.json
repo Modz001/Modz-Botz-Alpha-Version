@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Slash Lv1",
+    "type": "damage",
+    "effect": 20,
+    "price": 250
+  },
+  {
+    "name": "Slash Lv2",
+    "type": "damage",
+    "effect": 30,
+    "price": 300
+  },
+  {
+    "name": "Slash Lv3",
+    "type": "damage",
+    "effect": 40,
+    "price": 350
+  },
+  {
+    "name": "Slash Lv4",
+    "type": "damage",
+    "effect": 50,
+    "price": 400
+  },
+  {
+    "name": "Slash Lv5",
+    "type": "damage",
+    "effect": 60,
+    "price": 450
+  },
+  {
+    "name": "Critical Strike Lv1",
+    "type": "critical",
+    "effect": 1.5,
+    "price": 300
+  },
+  {
+    "name": "Critical Strike Lv2",
+    "type": "critical",
+    "effect": 2.0,
+    "price": 350
+  },
+  {
+    "name": "Critical Strike Lv3",
+    "type": "critical",
+    "effect": 2.5,
+    "price": 400
+  },
+  {
+    "name": "Critical Strike Lv4",
+    "type": "critical",
+    "effect": 3.0,
+    "price": 450
+  },
+  {
+    "name": "Critical Strike Lv5",
+    "type": "critical",
+    "effect": 3.5,
+    "price": 500
+  },
+  {
+    "name": "Shield Lv1",
+    "type": "defense",
+    "effect": 30,
+    "price": 270
+  },
+  {
+    "name": "Shield Lv2",
+    "type": "defense",
+    "effect": 40,
+    "price": 320
+  },
+  {
+    "name": "Shield Lv3",
+    "type": "defense",
+    "effect": 50,
+    "price": 370
+  },
+  {
+    "name": "Shield Lv4",
+    "type": "defense",
+    "effect": 60,
+    "price": 420
+  },
+  {
+    "name": "Shield Lv5",
+    "type": "defense",
+    "effect": 70,
+    "price": 470
+  },
+  {
+    "name": "Heal Lv1",
+    "type": "heal",
+    "effect": 30,
+    "price": 290
+  },
+  {
+    "name": "Heal Lv2",
+    "type": "heal",
+    "effect": 40,
+    "price": 340
+  },
+  {
+    "name": "Heal Lv3",
+    "type": "heal",
+    "effect": 50,
+    "price": 390
+  },
+  {
+    "name": "Heal Lv4",
+    "type": "heal",
+    "effect": 60,
+    "price": 440
+  },
+  {
+    "name": "Heal Lv5",
+    "type": "heal",
+    "effect": 70,
+    "price": 490
+  }
+]
