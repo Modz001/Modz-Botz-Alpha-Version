@@ -13,20 +13,20 @@
 
 ---
 
-##Fitur Unggulan
+## Fitur Unggulan
 
-- **Sistem Plugin Modular** — Tambahkan Fitur Dengan Menaruh File Di Folder Plugin.
-- **Auto Read & Auto Typing** — Meniru Aktivitas Pengguna Secara Otomatis.
-- **ESM Support** — Menggunakan Format Import Modern `import/export`.
-- **Custom Menu Gambar** — Dengan Tombol `List_Reply` Dan `CTA_Url`.
-- **Multi Owner System** — Tambah Atau Hapus Owner Dengan Mudah.
-- **Performa Cepat** — Ringan, Stabil, Cocok Untuk VPS, Termux, Atau Lainnya.
+**⌬ Sistem Plugin Modular** — Tambahkan Fitur Dengan Menaruh File Di Folder Plugin.
+**⌬ Auto Read & Auto Typing** — Meniru Aktivitas Pengguna Secara Otomatis.
+**⌬ ESM Support** — Menggunakan Format Import Modern `import/export`.
+**⌬ Custom Menu Gambar** — Dengan Tombol `List_Reply` Dan `CTA_Url`.
+**⌬ Multi Owner System** — Tambah Atau Hapus Owner Dengan Mudah.
+**⌬ Performa Cepat** — Ringan, Stabil, Cocok Untuk VPS, Termux, Atau Lainnya.
 
 ---
 
-##Instalasi
+## Instalasi
 
-###Termux / VPS / Linux
+### Termux / VPS / Linux
 
 ```bash
 # Clone Repository
