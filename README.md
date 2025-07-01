@@ -1,4 +1,4 @@
-<h1 align="center">Modz Botz Alpha Version</h1>
+<h1 align="center">『 Modz Botz Alpha Version 』</h1>
 <p align="center">
   <img src="https://img.shields.io/github/stars/Modz001/Modz-Botz-Alpha-Version?style=flat-square" />
   <img src="https://img.shields.io/github/forks/Modz001/Modz-Botz-Alpha-Version?style=flat-square" />
@@ -40,32 +40,9 @@ npm install
 npm start
 
 ```
-```bash
-Struktur Folder
-
-Modz-Botz-Alpha-Version/
-├── Modz/          # Semua Plugin Fitur
-├── lib/              # Fungsi Dan Konfigurasi
-├── modzbotz/          # File Autentikasi
-├── /            # Media Menu Dan Respon
-├── Modz.js           # File Utama Bot
-└── Package.json      # Informasi Package
-
----
-```
-```bash
-🧪 Contoh Perintah
-
-.daftar
-.menu
-.ping
-.owner
-.sticker
-```
-
 ---
 
-🏅『 Credit Modz Botz 』
+**『 Credit Modz Botz 』**
 
 > Bot Ini Dibuat Dan Dikembangkan Oleh Modz Never Die.
 Semua Fitur Dan Sistem Yang Ada Di Bot Ini Dirancang Untuk Membantu Pengguna Dalam Berbagai Keperluan, Dari Yang Serius Sampai Yang Santai.
@@ -107,7 +84,7 @@ Jarsepay
 
 ---
 
-🤝 Kontribusi
+Kontribusi
 
 Pull Request Dan Issue Sangat Diterima.
 Jangan Lupa Untuk Memberikan 🌟 Jika Kamu Suka Project Ini.
@@ -115,22 +92,21 @@ Jangan Lupa Untuk Memberikan 🌟 Jika Kamu Suka Project Ini.
 
 ---
 
-📄 Lisensi
+Lisensi
 
 Project Ini Berlisensi MIT.
 
 
 ---
 
-📞 Kontak Developer
+Kontak Developer
 
-📬 WhatsApp: Klik Untuk Chat
+WhatsApp : +62 831-6323-4218
 
-🌐 GitHub: @Modz001
+GitHub : @Modz001
 
 
 
 ---
 
 <h3 align="center">© Modz Botz | Credit</h3>
-```
