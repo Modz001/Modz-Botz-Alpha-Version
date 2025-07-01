@@ -39,7 +39,7 @@ npm install
 # Jalankan Bot
 npm start
 
-```
+```bash
 📁 Struktur Folder
 
 Modz-Botz-Alpha-Version/
@@ -50,9 +50,8 @@ Modz-Botz-Alpha-Version/
 ├── Modz.js           # File Utama Bot
 └── Package.json      # Informasi Package
 
-
 ---
-
+```bash
 🧪 Contoh Perintah
 
 .daftar
@@ -60,7 +59,7 @@ Modz-Botz-Alpha-Version/
 .ping
 .owner
 .sticker
-
+```
 
 ---
 
